@@ -1,6 +1,6 @@
 # STAIR-CASE-WIRING
 ### Name: Mohamed Apsar S
-### Reg no:212223030023
+### Reg no:212223030022
 AIM
 To control the status of the given lamp by using two – way switches.
 
